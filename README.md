@@ -1,4 +1,5 @@
 ![PyTorch Logo](https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjonathanooikwanw%2Fpytorch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjonathanooikwanw%2Fpytorch?ref=badge_shield)
 
 --------------------------------------------------------------------------------
 
@@ -429,3 +430,6 @@ Note: This project is unrelated to [hughperkins/pytorch](https://github.com/hugh
 ## License
 
 PyTorch has a BSD-style license, as found in the [LICENSE](LICENSE) file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjonathanooikwanw%2Fpytorch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjonathanooikwanw%2Fpytorch?ref=badge_large)
